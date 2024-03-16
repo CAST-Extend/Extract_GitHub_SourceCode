@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "args": ["-excel_file", "test.xlsx", "-batch", "1"]
+            "args": ["-excel_file", "test.xlsx", "-batch", "1", "-access_token", " ", "-repository_owner", "CAST-Extend"]
         }
     ]
 }
